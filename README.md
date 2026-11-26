@@ -30,7 +30,7 @@ I run Shadowtrace Solution out of Mumbai. Clients come to us for pentests, DPDP 
 </tr>
 <tr>
 <td width="50%"><a href="https://shadowtracesolution.com"><img src="assets/cards/shadowtrace.svg" alt="Shadowtrace Solution" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/Yashkute1/RustLabs-Skins-Crawler"><img src="assets/cards/tools.svg" alt="Small tools" width="100%"></a></td>
+<td width="50%"><a href="https://shadowtracesolution.com"><img src="assets/cards/datacentre.svg" alt="Edge data centre" width="100%"></a></td>
 </tr>
 </table>
 
