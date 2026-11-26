@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" width="440" height="250" role="img" aria-label="ShadowTrace AC. Server-side anti-cheat for Rust. It scores aim, recoil and hits, then puts each case on a review panel with a hit map.">
+<style>
+  .n { font: 650 25px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; letter-spacing: -.6px; fill: #F1F4F8; }
+  .b { font: 400 14.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #A3B1C0; }
+  .s { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8A9AAB; }
+  .l { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #C7D2DE; }
+  .dt { fill: #6B7C8E; }
+  .k { font: 500 11.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #5F7081; }
+  .r { animation: rise .7s cubic-bezier(0.23, 1, 0.32, 1) backwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  .ln { transform-origin: 28px 0; animation: draw .9s cubic-bezier(0.23, 1, 0.32, 1) 0.21s backwards; }
+  @keyframes draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  .br { animation: br 2.6s ease-in-out infinite; }
+  @keyframes br { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+  @media (prefers-reduced-motion: reduce) { .r, .ln, .br { animation: none; opacity: 1; transform: none; } }
+</style>
+<rect width="440" height="250" rx="14" fill="#0E1319"/>
+<rect x=".5" y=".5" width="439" height="249" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect class="ln" x="28" y="28" width="28" height="3" rx="1.5" fill="#A78BFA"/>
+<g class="r" style="animation-delay:0.16s">
+  <circle cx="364.0" cy="36" r="3.5" fill="#A78BFA"/>
+  <text x="412" y="40" text-anchor="end" class="s">Pilot</text>
+</g>
+<text x="28" y="72" class="n r" style="animation-delay:0.22s">ShadowTrace AC</text>
+<text x="28" y="104" class="b r" style="animation-delay:0.28s">Server-side anti-cheat for Rust. It scores aim,</text><text x="28" y="126" class="b r" style="animation-delay:0.28s">recoil and hits, then puts each case on a review</text><text x="28" y="148" class="b r" style="animation-delay:0.28s">panel with a hit map.</text>
+<line x1="28" x2="412" y1="188" y2="188" stroke="#FFFFFF" stroke-opacity=".07"/>
+<text x="28" y="212" class="l r" style="animation-delay:0.36s"><tspan class="dt">Nov 2026</tspan><tspan dx="10">v0.4 live, taking pilot servers</tspan></text>
+<text x="28" y="232" class="k r" style="animation-delay:0.42s">C# · Carbon · PHP</text>
+<text x="412" y="232" text-anchor="end" class="k r" style="animation-delay:0.42s">anticheat.shadowtrace.in ↗</text>
+</svg>
