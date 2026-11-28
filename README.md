@@ -57,7 +57,8 @@ For client work and practice I use Burp Suite, Metasploit, Wireshark and Hashcat
 **Servers and cloud**<br>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,aws,gcp,cloudflare,githubactions,git&theme=dark" alt="Linux, Ubuntu, AWS, Google Cloud, Cloudflare, GitHub Actions, Git">
 
-<sub>Also: Fastify, Kysely, Zod, TanStack Query, Playwright, Scrapling, Tesseract OCR, Caddy, systemd, eBPF/XDP, nftables, WireGuard, Carbon and Oxide plugins, ESC/POS receipt printers.</sub>
+**Tools and libraries**<br>
+<img src="assets/stack-tools.svg" alt="Also: Fastify, Kysely, Zod, TanStack Query, Playwright, Scrapling, Tesseract OCR, Caddy, systemd, eBPF/XDP, nftables, WireGuard, Carbon and Oxide plugins, ESC/POS receipt printers" width="100%">
 
 ### Activity
 
